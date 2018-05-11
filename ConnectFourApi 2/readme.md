@@ -1,3 +1,2 @@
-Authos: Jesus Chavez, Toan Ton
+Authos: Jesus Chavez
 Jesus Chavez: Strategies, checking bound and iswin, isdraw
-Ton Toan: jason_handle api
